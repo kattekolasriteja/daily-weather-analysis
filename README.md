@@ -1,4 +1,4 @@
 # daily-weather-analysis
 
 ## SlashMark
-##Algorithm Used: RANDOMFORESTCLASSIFIER
+## Algorithm Used: RANDOMFORESTCLASSIFIER
